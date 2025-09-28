@@ -1,0 +1,65 @@
+HTML(HYPER TEXT MARKUP LANGUAGE)
+TAGS:
+>>  <>:opening tag
+>>  </  >: closing tag
+>>  <  />:self closing tag
+>>  <p></p> :paragraph tag
+
+Atributes:always present in opening tag
+>> <p id="demopara"> hellow world</p>
+
+comments: <---cntrl + /-->
+
+emmet cheat sheat
+>><p>lorum</p> (used to generate dummy texts
+
+
+text tag
+<hr>
+>> used to put horizontal line
+
+<br> to break between para</br>
+
+
+<sup> superscript tag</sup>
+
+<sub> used to subscript text</sub>
+
+<mark> heighlight text
+
+<del> to wrap text </del>
+
+<strong> similar way to bold
+
+MDN --- search in browser for certain tags 
+
+HEAD TAG
+
+
+<image tag>
+<img src ="" alt = "">
+<img align> tag
+
+<img
+align = "right"
+src=""
+alt=""
+height =""
+
+lists
+
+
+
+tables
+>>table mdn= best site to know about table
+
+<thead>
+<tbody>
+<tfooter>
+
+link
+>><a target="_blank" href ="https://github.com/chethan531/GitDemo"> <strong> pation
+         >> target blank opens web in next page and target self loads page in same page
+
+
+

@@ -1,0 +1,67 @@
+git GitHub
+
+needs:
+
+>>version control
+>>distributed on cloud
+>>collaboration
+>>tracking
+>>easy for recovery
+
+supported applications
+>>GitHub
+>>gitbuckets
+>>gitlabs
+>>gitpod
+
+for first time u need to configure GitHub in your system in cmd
+>> git config --global  user.name  "chethan531"     
+
+after config
+>>git config --global user.email "chethankumarv21@gmail.com"
+
+(optional)
+git config --global color.ui auto
+
+mandatory comments
+
+>>git init
+
+>>git remote add origin https://github.com/chethan531/GitDemo.git
+
+pull request
+>> go to terminal--> git pull origin main
+
+push
+>>git status
+>>
+
+to add file
+>>git add 1_new_file
+>>git commit -m "commit message"
+>>git push
+
+
+separate branch
+>>git checkout -b "day1_branch"
+>> git status
+>>git commit -m "dummy"
+>>git push
+
+switch the branch
+
+>>git checkout "branchnamewhichistobeopened"
+
+to download any of the code
+>>create one folder
+>>in cmd type,
+>>git clone (paste code option http link)
+
+
+
+
+
+
+
+
+
